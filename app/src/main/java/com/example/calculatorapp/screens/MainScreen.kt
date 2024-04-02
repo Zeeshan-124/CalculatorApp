@@ -83,7 +83,7 @@ fun MainScreen(
             Column(
                 verticalArrangement = Arrangement.spacedBy(16.dp),
                 modifier = Modifier
-                    .padding(bottom = 50.dp)
+                    .padding(bottom = 50.dp, top = 8.dp)
             ) {
                 Row(
                     modifier = Modifier
